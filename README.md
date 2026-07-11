@@ -4,7 +4,7 @@ Predicting customer churn for a retail bank using classification models, with a 
 
 Overview
 
-This was a team project (3 members) completed as part of my M.S. Business Analytics coursework at ASU's W.P. Carey School of Business. My focus within the project was data cleaning, exploratory analysis, and model evaluation.
+This was a team project completed as part of my M.S. Business Analytics coursework at ASU's W.P. Carey School of Business. My focus within the project was data cleaning, exploratory analysis, and model evaluation.
 
 Dataset: Bank Customer Churn (Kaggle) — 10,000 customer records.
 
@@ -22,7 +22,7 @@ Random Forest
 
 
 
-Evaluation — held out 15% of the data (stratified by class) to test final model performance
+Evaluation - held out 15% of the data (stratified by class) to test final model performance
 
 
 Results
